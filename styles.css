@@ -1,0 +1,32 @@
+.menu {
+    margin-left: 1100px;
+}
+
+.section-title {
+    text-align: center;
+    letter-spacing: 10px;
+    margin: 3%;
+}
+
+.section-menu {
+    margin: 5% 5%;
+}
+
+.card-img {
+
+    height: 500px;
+}
+
+.section-about {
+    margin: 5% 5%;
+}
+
+.form-floating {
+    margin-top: 1%;
+}
+
+.section-contact {
+    margin: 5% 5%;
+    background-color: rgb(121, 125, 125);
+    padding: 3%;
+}
